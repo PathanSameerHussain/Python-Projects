@@ -1,4 +1,4 @@
-print("========== HOSPITAL MANAGEMENT =====")
+print("========== HOSPITAL MANAGEMENT ==========")
 patients = {}
 while True:
     print("1. Add Patient, 2. Display All Patients, 3. Search Patient, 4. Update Patient Details, 5. Discharge Patient, 6. Delete Patient Record, 7. Total Patients, 8. Show Admitted Patients, 9. Exit")
