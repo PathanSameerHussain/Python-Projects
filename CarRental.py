@@ -1,4 +1,4 @@
-print("========== CAR RENTAL SYSTEM ==========")
+print("======= CAR RENTAL SYSTEM =======")
 car = {}
 while True:
 
